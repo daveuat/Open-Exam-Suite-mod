@@ -1,6 +1,9 @@
 Modded Preview:
 ![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/image.png)
 
+Original Look:
+![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/image-original-look.png)
+
 
 
 

@@ -5,7 +5,8 @@ Original Look:
 ![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/image-original-look.png)
 
 Question Randomizer Implemented:
-<p><![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/randomizer.png)</p>
+
+<![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/randomizer.png)
 
 
 

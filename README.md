@@ -6,7 +6,7 @@ Original Look:
 
 Question Randomizer Implemented:
 
-<![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/randomizer.png)
+![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/randomizer.png)
 
 
 

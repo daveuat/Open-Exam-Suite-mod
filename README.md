@@ -4,6 +4,9 @@ Modded Preview:
 Original Look:
 ![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/image-original-look.png)
 
+Question Randomizer Implemented:
+![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/randomizer.png)
+
 
 
 

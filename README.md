@@ -1,10 +1,7 @@
-Modded Preview:
+Modded Answer Explanation Section Preview:
 ![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/image.png)
 
-Original Look:
-![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/image-original-look.png)
-
-Question Randomizer Implemented:
+Working Question Randomizer Implemented:
 
 ![alt text](https://github.com/daveuat/Open-Exam-Suite-mod/blob/master/src/randomizer.png)
 
